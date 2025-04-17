@@ -26,3 +26,22 @@ Após as análises, escreva um texto explicando qual loja o Senhor João deve ve
 
 Bom projeto!
 
+Descrição
+
+Antes de avançar para as análises detalhadas, é fundamental explorar o dataset para entender sua estrutura e conteúdo. Essa etapa permite identificar padrões, inconsistências e as colunas mais relevantes para as próximas etapas.
+
+Estrutura dos Dados:
+O dataset inclui as seguintes informações:
+
+Produto e Categoria: Itens vendidos e suas classificações.
+
+Preço e Frete: Valores das vendas e custos associados.
+
+Data de Compra e Local: Informações temporais e geográficas.
+
+Avaliação da Compra: Feedback dos clientes.
+
+Tipo de Pagamento e Parcelas: Métodos utilizados pelos clientes.
+
+Coordenadas Geográficas: Localização das transações.
+
