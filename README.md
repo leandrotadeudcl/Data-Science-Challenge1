@@ -1,11 +1,11 @@
 # Data-Science-Challenge1
 
-🛒 ##Alura Store - Análise de Lojas Virtuais
+🛒 ## Alura Store - Análise de Lojas Virtuais
 
 Este projeto realiza uma análise exploratória dos dados de quatro lojas virtuais fictícias da Alura Store, com o objetivo de avaliar o desempenho de cada uma e apoiar uma decisão estratégica de venda de uma delas.
 Buscamos compreender o desempenho de cada loja em relação a faturamento, produtos, avaliações e frete médio.
 
-🔍 ##Objetivos da Análise
+🔍 ## Objetivos da Análise
 Identificar a loja com pior desempenho.
 Avaliar os seguintes indicadores:
 📈 Faturamento total
