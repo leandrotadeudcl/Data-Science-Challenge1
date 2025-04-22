@@ -67,3 +67,6 @@ A loja recomendada para venda é a **Loja 4**, por apresentar:
 ### 📌 Autor
 
 Desenvolvido por [Leandro Tadeu]
+
+### Você pode me encontrar em:  
+- [LinkedIn](https://www.linkedin.com/in/leandro-tadeu)
