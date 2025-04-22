@@ -4,50 +4,65 @@ Este relatório tem como objetivo subsidiar a decisão do Sr. João sobre qual l
 A análise foi realizada com base em dados de vendas, desempenho e avaliações de 4 lojas, utilizando Python, pandas e matplotlib para gerar gráficos
 e realizar as comparações entre as lojas.
 
+---
 
-🔍 ## Objetivos da Análise : Identificar a loja com pior desempenho.
-
-
-Avaliar os seguintes indicadores:
-📈 Faturamento total
-📦 Categorias de produtos
-⭐ Média das avaliações dos clientes
-🔥 Produtos mais e menos vendidos
-🚚 Frete médio por loja
+## 🔍 Objetivos da Análise : Identificar a loja com pior desempenho.
 
 
-📈 Visualizações Criadas
-📦 Faturamento por Loja
-Um gráfico de barras apresenta o faturamento total de cada loja, com destaque para o total geral.
+### Avaliar os seguintes indicadores:
 
-📂 Categorias de Produtos por Loja
-Gráfico de barras agrupadas mostra a distribuição de categorias de produtos entre as quatro lojas.
+    📈 Faturamento total
+    📦 Categorias de produtos
+    ⭐ Média das avaliações dos clientes
+    🔥 Produtos mais e menos vendidos
+    🚚 Frete médio por loja
 
-⭐ Média de Avaliação da Compra
-Um gráfico de dispersão indica a nota média atribuída pelos clientes em cada loja.
 
-🍕 Produtos Mais e Menos Vendidos por Loja
-Dois gráficos de pizza revelam os produtos com maior e menor número de vendas em cada loja.
+## 📈 Visualizações Criadas
+   1. 📦 Faturamento por Loja
+      - Gráfico de barras apresenta o faturamento total de cada loja, com destaque para o total geral.
+   2. 📂 Categorias de Produtos por Loja
+      - Gráfico de pizza agrupadas mostra a distribuição de categorias de produtos entre as quatro lojas.
+   3. ⭐ Média de Avaliação da Compra
+      - Gráfico de linha indica a nota média atribuída pelos clientes em cada loja.
+   4. 🍕 Produtos Mais e Menos Vendidos por Loja
+      - Dois gráficos de pizza revelam os produtos com maior e menor número de vendas em cada loja.
+   5. 🚚 Frete Médio por Loja
+      - Gráfico de barras exibe o valor médio de frete cobrado por loja.
+   6. 🚚 Análise de desempenho geográfico
+      - Gráfico de dispersão exibe a distribuição geográfica dos produtos de cada loja.
+       
+---
 
-🚚 Frete Médio por Loja
-Um gráfico de barras horizontais exibe o valor médio de frete cobrado por loja.
+## 🧪 Tecnologias Utilizadas
 
-🧪 Tecnologias Utilizadas
-Python
-Pandas — análise de dados
-Matplotlib — visualização de dados
-📊 Principais Insights
-Loja 1: Maior faturamento geral
-Loja 3: Melhor avaliação de clientes e maior equilíbrio nas vendas
-Loja 4: Menor faturamento e desempenho inferior nos principais indicadores
-✅ Conclusão
-A loja recomendada para venda é a Loja 4, por apresentar:
+  - **Python**
+  - **Pandas — análise de dados**
+  - **Matplotlib — visualização de dados**
 
-Menor faturamento
-Pior desempenho em vendas por categoria
-Avaliação de clientes inferior
-🚀 Como Executar
-Acesse o notebook no Google Colab ou Jupyter Notebook.
+---
+
+## 📊 Principais verificações a partir das análises:
+
+  - Loja 1: Maior faturamento entre as 4 lojas
+  - Loja 3: Melhor avaliação de clientes
+  - Loja 4: Menor faturamento e desempenho ruim na média das avaliações dos clientes
+
+---
+
+## ✅ Conclusão
+
+A loja recomendada para venda é a **Loja 4**, por apresentar:
+
+  - Menor faturamento
+  - Avaliação de clientes inferior
+
+---
+  
+## 📂 Acesso ao Projeto
+- 📑 Notebook completo: [AluraStoreBr - André Lopes.ipynb]
+
+---
 Execute o notebook por seção.
 📌 Autora
 Foto de Perfil
