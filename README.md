@@ -1,12 +1,13 @@
-# Data-Science-Challenge1
+# 📊 Data-Science-Challenge1 – Análise de Dados das Lojas
 
-🛒 ## Alura Store - Análise de Lojas Virtuais
+Este relatório tem como objetivo subsidiar a decisão do Sr. João sobre qual loja de sua rede deve ser vendida para iniciar um novo empreendimento.
+A análise foi realizada com base em dados de vendas, desempenho e avaliações de 4 lojas, utilizando Python, pandas e matplotlib para gerar gráficos
+e realizar as comparações entre as lojas.
 
-Este projeto realiza uma análise exploratória dos dados de quatro lojas virtuais fictícias da Alura Store, com o objetivo de avaliar o desempenho de cada uma e apoiar uma decisão estratégica de venda de uma delas.
-Buscamos compreender o desempenho de cada loja em relação a faturamento, produtos, avaliações e frete médio.
 
-🔍 ## Objetivos da Análise
-Identificar a loja com pior desempenho.
+🔍 ## Objetivos da Análise : Identificar a loja com pior desempenho.
+
+
 Avaliar os seguintes indicadores:
 📈 Faturamento total
 📦 Categorias de produtos
