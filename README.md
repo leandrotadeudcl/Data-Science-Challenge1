@@ -60,7 +60,7 @@ A loja recomendada para venda é a **Loja 4**, por apresentar:
 ---
   
 ## 📂 Acesso ao Projeto
-- 📑 Notebook completo: [AluraStoreBr-DataScience-Challenge1_Leandro-Tadeu.ipynb]
+- 📑 Notebook completo: [AluraStoreBr-DataScience-Challenge1]https://github.com/leandrotadeudcl/Data-Science-Challenge1/tree/main
 
 ---
 
